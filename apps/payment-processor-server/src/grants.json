@@ -1,0 +1,452 @@
+[
+  {
+    "role": "admin",
+    "resource": "ExchangeRate",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "ExchangeRate",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "ExchangeRate",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "ExchangeRate",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "ExchangeRate",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "ExchangeRate",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "ExchangeRate",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "ExchangeRate",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "ExchangeRate",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "ExchangeRate",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "ExchangeRate",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "ExchangeRate",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "ExchangeRate",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "ExchangeRate",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "ExchangeRate",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Wallet",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "Wallet",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Wallet",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Wallet",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "Wallet",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Wallet",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Wallet",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "Wallet",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Wallet",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Wallet",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "Wallet",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Wallet",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Wallet",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "Wallet",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Wallet",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Transaction",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "Transaction",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Transaction",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Transaction",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "Transaction",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Transaction",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Transaction",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "Transaction",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Transaction",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Transaction",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "Transaction",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Transaction",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Transaction",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "Transaction",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Transaction",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "LedgerEntry",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "LedgerEntry",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "LedgerEntry",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "LedgerEntry",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "LedgerEntry",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "LedgerEntry",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "LedgerEntry",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "LedgerEntry",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "LedgerEntry",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "LedgerEntry",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "LedgerEntry",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "LedgerEntry",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "LedgerEntry",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "LedgerEntry",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "LedgerEntry",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "support",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  }
+]
